@@ -11,3 +11,5 @@ https://public.tableau.com/views/Sprint4Projectver_2/Profitbyregion?:language=en
 Tableu story and dashboard and toryanalyzing returns at a mock business:
 https://public.tableau.com/shared/DTZCCS2R2?:display_count=n&:origin=viz_share_link
 
+Final project using CSV files for 100k data points to examine revenue, ratings, and popularity on Zomato(Yelp-like data set):
+https://public.tableau.com/app/profile/andrew.lara3076/viz/FinalprojectIPv5/Dashboard1?publish=yes
